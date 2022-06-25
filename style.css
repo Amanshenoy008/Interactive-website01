@@ -1,0 +1,127 @@
+@tailwind base; 
+@tailwind components; 
+@tailwind utilities;
+
+
+.f
+{
+    font-size: bold;
+    text-align: center;
+    font-weight: bolder;
+    color:yellow;
+}
+input{
+    cursor: pointer;
+}
+#ca
+{
+    position: fixed;
+    padding: 50px;
+    background-color: rgba(142, 133, 133, 0.6);
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px rgba(63, 63, 63, 0.5);
+    cursor: default;
+}
+.we
+{
+ padding:25px;
+ border-radius:25em 5em 5em 5em;
+ border:5px solid red;
+}
+.b1{
+    margin: auto;
+    padding: 20px;
+    border:20px solid black;
+    border-radius: 25em;
+}
+.b1:hover{
+    background-color:azure;
+    color:aqua;
+}
+.e01
+{
+  border:2px;
+  margin: 5%;
+  padding: 10px;
+  border-style:solid;
+  align-items: left;
+  position: left;
+
+}
+.e02
+{
+  border:2px solid black;
+  margin: 5%;
+  padding: 10px;
+  border-style:solid;
+
+}
+.e03
+{
+  border:2px;
+  margin: 5%;
+  padding: 10px;
+  border-style:solid;
+
+}
+.l01
+{
+    margin:5%;
+    padding:10px;
+    border: 1px solid black;
+}
+.l02
+{
+    margin:5%;
+    padding:10px;
+    border: 1px solid black;
+}
+.l03
+{
+    margin:5%;
+    padding:10px;
+    border: 1px solid black;
+}
+body
+{
+    height: 400vh;
+}
+::-webkit-scrollbar
+{
+    width:15px;
+}
+::-webkit-scrollbar-track
+{
+    background: rgb(16, 37, 122);
+}
+::-webkit-scrollbar-thumb
+{
+    background: rgb(233, 240, 28);
+}
+.menu
+{
+    background-image: linear-gradient(to right, rgb(203, 238, 77),rgb(57, 57, 231));
+
+    
+}
+#elec
+{
+    text-align:center;
+    border-style: dashed;
+
+}
+#cloth
+{
+    text-align: center;
+    
+    border-style: dashed;
+}
+#cosmetics
+{
+    text-align: center;
+
+
+    border-style: dashed;
+
+}
